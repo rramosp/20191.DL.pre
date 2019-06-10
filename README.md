@@ -5,29 +5,8 @@
 ## Programa
 
 ```
-                  ------------- CLASSROOMS --------------------
-                  MON        TUE         THU
-weekstart week#   18-210     20-343      19-305                      deadlines (domingo 11pm)
-----------------------------------------------------------------------------------------------
-  05/jun    0                            welcome
-  10/jun    1     intro      python      01 TAD, lista	
-  17/jun    2     TALLER     TALLER      02 polinomios 	
-  --------------------- VACACIONES --------------------------------
-  08/jul    3     TALLER     TALLER      03 matrices dispersas 	
-  15/jul    4     TALLER     TALLER      04 repr in memoria	
-  22/jul    5     TALLER     TALLER      prep parcial                TALLERES 1-4, MOOC ENTREGA 1
-  29/jul    6     parcial-1  TALLER      05 listas generalizadas     
-  05/ago    7     TALLER     TALLER      06 árboles, binarios	
-  19/ago    8     FESTIVO    TALLER      07 árboles y búsqueda
-  26/ago    9     TALLER     TALLER      08 grafos                   TALLERES 5-8
-  02/sep   10     prep       parcial-2   09 algos sobre grafos 1     
-  09/sep   11     TALLER     TALLER      10 algos sobre grafos 2	
-  16/sep   12     TALLER     TALLER      11 algos genéticos
-  23/sep   13     TALLER     TALLER      12 simulated annealing
-  30/sep   14     prep       parcial-3                               TALLERES 9-12, MOOC ENTREGA FINAL
-```
                    TUE                                THU
-   week# starts    20-238                             20-234         
+   week# starts    CLASSROOM 20-238                   CLASSROOM 20-234         
 ----------------------------------------------------------------------------------------------
     W01 05/jun     Intro.ML1                          Intro.ML2
     W02 10/jun     U1.Intro.NN                        Lab 1.1
@@ -46,7 +25,7 @@ weekstart week#   18-210     20-343      19-305                      deadlines (
     W14 23/sep     U4.Proyecto                        U4.Proyecto
     W15 30/sep     U4.Proyecto                        U4.Proyecto
     W16 07/oct                                                        10/oct Deadline U4.Proyecto
-
+```
 
 **calendario**
 
