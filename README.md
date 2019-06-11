@@ -76,8 +76,6 @@ Si se te requiere tendrás que realizar una **breve presentación** de tu proyec
 - Tendrás que presentar **tres aspectos**: 1) qué tarea se resolvió, 2) qué experimentos se hicieron, 3) tus conclusiones e interpretación de los resultados.
 - La calificación será **un factor entre 0.5 y 1.5**, que se multiplicará con la calificación obtenida a la entrega para obtener la calificación final.
 
-
-
  ## Registro y materiales
  
  - [Listado de estudiantes](https://docs.google.com/spreadsheets/d/1jbCc0ZHC5qFMhwMEpoCgSFzHwP6lx_V77E4Blh6Tk38/edit#gid=2001230691)
@@ -90,3 +88,39 @@ Si se te requiere tendrás que realizar una **breve presentación** de tu proyec
 - Goodfellow, Bengio, Courville, **Deep Learning**, MIT Press [website](https://www.deeplearningbook.org/) [pdf](https://github.com/janishar/mit-deep-learning-book-pdf)
 - Bengio, **Learning Deep Architectures for AI**, Foundations and Trends in
 Machine Learning, Vol. 2, No. 1 (2009) 1–127, [pdf](http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf)
+
+
+## Laboratorios (_Programming Assignments_) de deeplearning.ai
+[C1. Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+Lab1 Logistic Regression with a Neural Network mindset
+Lab2 Planar data classification with a hidden layer
+Lab3 Building your Deep Neural Network - Step by Step
+
+[C2. Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+Lab1 Initialization
+Lab2 Regularization
+Lab3 Gradient checking
+Lab4 Optimization
+Lab5 Tensorflow
+
+[C3 Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+No programming asignments, only quizes
+
+[C4. Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+Lab1 Convolutional model: step by step
+Lab2 Convolutional model application
+Lab3 Residual Networks
+Lab4 Car Detection with YOLOv2
+Lab5 Art generation
+Lab6 Face recognition
+
+[C5 Sequence models](https://www.coursera.org/learn/nlp-sequence-models)
+Lab1 Building a RNN step by step
+Lab2 Character level language modeling
+Lab3 Jazz improvisation with LSTM
+Lab4 Operations on word vectors
+Lab5 Emojify
+Lab6 Neural machine translation
+Lab7 Trigger word detection|
+
+
