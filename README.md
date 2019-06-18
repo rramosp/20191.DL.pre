@@ -10,7 +10,7 @@
 ----------------------------------------------------------------------------------------------
     W01 05/jun     Intro.ML1                          Intro.ML2
     W02 10/jun     U1.Intro.NN                        Lab 1.1
-    W03 17/jun     U2.NN.Archs.TrainAlgs.Reg          Lab 2.1         23/jul DLC1
+    W03 17/jun     U2.NN.Archs.TrainAlgs.Reg          Lab 2.1        
 -------------------- VACACIONES --------------------------------
     W04 08/jul     U2.NN.Initz.Batch.Relu.Vanish      Lab 2.2
     W05 15/jul     Labs                               Parcial         21/jul Deadline Lab1 Lab2
@@ -132,7 +132,7 @@ No programming asignments, only quizes
 ----------------------------------------------------------------------------------------------
     W01 05/jun     Intro.ML1                          Intro.ML2
     W02 10/jun     U1.Intro.NN                        Lab 1.1
-    W03 17/jun     U2.NN.Archs.TrainAlgs.Reg          Lab 2.1         23/jun C1 
+    W03 17/jun     U2.NN.Archs.TrainAlgs.Reg          Lab 2.1         30/jun C1 
 -------------------- VACACIONES --------------------------------
     W04 08/jul     U2.NN.Initz.Batch.Relu.Vanish      Lab 2.2
     W05 15/jul     Labs                               Parcial         21/jul C2 
