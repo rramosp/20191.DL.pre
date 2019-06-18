@@ -130,21 +130,22 @@ No programming asignments, only quizes
                    TUE                                THU
    week# starts    CLASSROOM 20-238                   CLASSROOM 20-234         
 ----------------------------------------------------------------------------------------------
-    W01 05/jun     Intro.ML1                          Intro.ML2
+    W01 05/jun     Intro.ML1                          Intro.ML
     W02 10/jun     U1.Intro.NN                        Lab 1.1
     W03 17/jun     U2.NN.Archs.TrainAlgs.Reg          Lab 2.1         30/jun C1 
 -------------------- VACACIONES --------------------------------
     W04 08/jul     U2.NN.Initz.Batch.Relu.Vanish      Lab 2.2
-    W05 15/jul     Labs                               Parcial         21/jul C2 
-    W06 22/jul     U3.CNN.ConvOp.Archs                Lab 3.1
-    W07 29/jul     U3.CNN.Classf.Detectn.Segmtn       Lab 3.2         
-    W08 05/ago     U3.CNN.Transfer Learning           Lab 3.3         04/ago C4 Lab1,2,3
-    W09 19/ago     U3.Proyecto                        U3.Proyecto
-    W10 26/ago     U3.Proyecto                        U3.Proyecto     04/ago C4 Lab4,5,6
-    W11 02/sep     U4.RNN.SeqModels.BProp in Time     Lab 4.1         
-    W12 09/sep     U4.RNN.LSTM.Archs.Seq2Seq          Lab 4.2
-    W13 16/sep     U4.RNN.CNN-LSTM                    Lab 4.3         21/sep C5 Lab1,2,3
-    W14 23/sep     U4.Proyecto                        U4.Proyecto
-    W15 30/sep     U4.Proyecto                        U4.Proyecto     07/Oct C5 Lab4,5,6
-    W16 07/oct                                                        
+    W05 15/jul     Lab                                Lab             20/jul C2
+    W06 22/jul     Lab                                Parcial          
+    W07 29/jul     U3.CNN.ConvOp.Archs                Lab 3.1         04/ago C3
+    W08 05/ago     U3.CNN.Classf.Detectn.Segmtn       Lab 3.2         
+    W09 12/ago     U3.CNN.Transfer Learning           Lab 3.3         18/ago C4 Lab1,2,3
+    W10 19/ago     Lab                                Lab
+    W11 26/ago     Lab                                Lab             30/ago C4 Lab4,5,6
+    W12 02/sep     U4.RNN.SeqModels.BProp in Time     Lab 4.1         
+    W13 09/sep     U4.RNN.LSTM.Archs.Seq2Seq          Lab 4.2
+    W14 16/sep     U4.RNN.CNN-LSTM                    Lab 4.3         21/sep C5 Lab1,2,3
+    W15 23/sep     Lab                                Lab 
+    W16 30/sep     Lab                                Lab             07/Oct C5 Lab4,5,6
+    W17 07/oct                                                        
 ```
